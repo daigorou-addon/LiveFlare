@@ -5,7 +5,6 @@ Live stream monitor & alert app for Windows.
 ## Features
 - Real-time online status display
 - Desktop toast notifications when stream starts
-- Twitch follow list import
 - 13 language support(EN / JA / KO / ZH-CN / ZH-TW / DE / FR / ES / PT / RU / TH / VI / ID)
 - System tray background operation
 
