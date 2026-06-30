@@ -2,6 +2,8 @@
 
 Live stream monitor & alert app for Windows.
 
+![LiveFlare main window](screenshots/main-window.png)
+
 ## Features
 - Real-time online status display
 - Desktop toast notifications when stream starts
