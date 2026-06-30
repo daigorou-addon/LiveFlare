@@ -2,7 +2,7 @@
 
 Live stream monitor & alert app for Windows.
 
-![LiveFlare main window](screenshots/main-window.png)
+![LiveFlare main window](main-window.png)
 
 ## Features
 - Real-time online status display
