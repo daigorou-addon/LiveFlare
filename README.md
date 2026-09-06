@@ -20,8 +20,7 @@ Windows 10/11 (64bit)
 [Latest Release](https://github.com/daigorou-addon/LiveFlare/releases/latest)
 
 ## Related Extensions
-- [PPP Live Alert](https://chromewebstore.google.com/detail/bejlnfnhfgkaddplnkcnhgmoacineode) - YouTube / Twitch / Kick (Chrome/Edge)
-- [FC2ライブ検索ふくにくん](https://chromewebstore.google.com/detail/ghkobnmkiieaaolppjlgbmhbdlnjgfjc) - FC2 Live (Chrome/Edge)
+- [PPP Live Alert](https://chromewebstore.google.com/detail/bejlnfnhfgkaddplnkcnhgmoacineode) - YouTube / Twitch / Kick /FC2(Chrome/Edge)
 
 A Windows SmartScreen warning may appear during installation.
 Click "More info" → "Run anyway". This is safe software made by an indie developer.
