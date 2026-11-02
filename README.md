@@ -17,10 +17,14 @@ YouTube / Twitch / Kick / TwitCasting / FC2 Live
 Windows 10/11 (64bit)
 
 ## Download
-[Latest Release](https://github.com/daigorou-addon/LiveFlare/releases/latest)
+[Latest Release](https://github.com/daigorou-addon/LiveFlare/releases)
 
 ## Related Extensions
-- [PPP Live Alert](https://chromewebstore.google.com/detail/bejlnfnhfgkaddplnkcnhgmoacineode) - YouTube / Twitch / Kick /FC2(Chrome/Edge)
+- [PPP Live Alert](https://chromewebstore.google.com/detail/ghkobnmkiieaaolppjlgbmhbdlnjgfjc?utm_source=item-share-cb) - YouTube / Twitch / Kick /FC2(Chrome/Edge)
 
 A Windows SmartScreen warning may appear during installation.
 Click "More info" → "Run anyway". This is safe software made by an indie developer.
+
+## Author
+
+Other tools by the author: [daigorou-Tools](https://daigorou-addon.github.io/daigorou-tools/)
