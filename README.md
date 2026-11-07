@@ -9,6 +9,7 @@ Windows向けのライブ配信モニター&通知アプリです。
 - 配信開始時にデスクトップのトースト通知
 - 13言語に対応(EN / JA / KO / ZH-CN / ZH-TW / DE / FR / ES / PT / RU / TH / VI / ID)
 - システムトレイでのバックグラウンド動作
+- 通知音を5種類から選択可能
 
 ## 対応プラットフォーム
 YouTube / Twitch / Kick / TwitCasting / FC2 Live
@@ -40,6 +41,7 @@ Live stream monitor & alert app for Windows.
 - Desktop toast notifications when stream starts
 - 13 language support(EN / JA / KO / ZH-CN / ZH-TW / DE / FR / ES / PT / RU / TH / VI / ID)
 - System tray background operation
+- Choose from 5 notification sounds
 
 ## Supported Platforms
 YouTube / Twitch / Kick / TwitCasting / FC2 Live
